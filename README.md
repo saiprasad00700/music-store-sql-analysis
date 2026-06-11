@@ -50,8 +50,12 @@ This project analyzes a Music Store database using SQL to answer key business qu
 
 ## Project Outcome
 
-The analysis provided insights into customer spending behavior, top-performing artists, popular genres, and revenue trends across different countries and cities.
-
+- Identified countries generating the highest number of invoices.
+- Found the highest spending customers.
+- Analyzed popular music genres by country.
+- Evaluated artist and customer purchasing trends.
+- Applied SQL techniques to solve real business problems.
+  
 ## Author
 
 Saiprasad Nukala
